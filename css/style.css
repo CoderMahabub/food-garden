@@ -86,6 +86,7 @@ p {
 
 .our-recipie {
     margin-top: 100px;
+    margin-bottom: 100px;
     margin-left: 5%;
     margin-right: 5%;
     text-align: center;
@@ -139,7 +140,36 @@ p {
     padding: 0;
 }
 
-/* Footer Section */
+/* Clients Review Section */
+
+.client-say {
+    padding: 100px 0;
+    text-align: center;
+    background-image: url(../images/fg-clients-say.jpg);
+}
+
+.client-say-bottom-item {
+    background: #fff;
+    width: 33%;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    box-shadow: 0 0 30px 5px gainsboro;
+}
+
+.client-say-bottom-item img {
+    border-radius: 50%;
+}
+
+.client-say-bottom-item h3, h6 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Subscribe Section */
 
 .subscribe-us {
     background-image: url(../images/fg-about-bg.png);
