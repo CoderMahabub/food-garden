@@ -114,7 +114,7 @@ p {
 
 .number-section {
     margin-top: 120px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
     margin-left: 5%;
     margin-right: 5%;
     border-radius: 15px;
@@ -137,4 +137,22 @@ p {
 .number-section-item p {
     margin: 0;
     padding: 0;
+}
+
+/* Footer Section */
+
+footer {
+    background-color: #0B0D17;
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
+
+footer h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+footer .description-text {
+    color: #fff;
+    text-align: center;
 }
