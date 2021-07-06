@@ -33,11 +33,6 @@ p {
     margin-bottom: 60px;
 }
 
-section {
-    margin-top: 50px;
-    margin-bottom: 50px;
-}
-
 .flexible-container {
     display: flex;
 }
@@ -56,6 +51,11 @@ section {
 }
 
 /* Top Banner */
+
+.top-banner {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 
 .top-banner-right img {
     width: 90%;
@@ -85,6 +85,7 @@ section {
 /* My Recipie */
 
 .our-recipie {
+    margin-top: 100px;
     margin-left: 5%;
     margin-right: 5%;
     text-align: center;
@@ -110,3 +111,30 @@ section {
 }
 
 /* Numbers Section */
+
+.number-section {
+    margin-top: 120px;
+    margin-bottom: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 15px;
+    box-shadow: 0 0 30px 5px gainsboro;
+}
+
+.number-section-item {
+    width: 33%;
+    text-align: center;
+    padding: 60px 0px;
+}
+
+.number-section-item h3 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 40px;
+}
+
+.number-section-item p {
+    margin: 0;
+    padding: 0;
+}
