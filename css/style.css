@@ -111,35 +111,6 @@ p {
     text-align: left;
 }
 
-/* Numbers Section */
-
-.number-section {
-    margin-top: 120px;
-    margin-bottom: 100px;
-    margin-left: 5%;
-    margin-right: 5%;
-    border-radius: 15px;
-    box-shadow: 0 0 30px 5px gainsboro;
-}
-
-.number-section-item {
-    width: 33%;
-    text-align: center;
-    padding: 60px 0px;
-}
-
-.number-section-item h3 {
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    font-size: 40px;
-}
-
-.number-section-item p {
-    margin: 0;
-    padding: 0;
-}
-
 /* Clients Review Section */
 
 .client-say {
@@ -175,6 +146,35 @@ p {
 
 .client-say-bottom-item span {
     font-size: 25px;
+}
+
+/* Numbers Section */
+
+.number-section {
+    margin-top: 120px;
+    margin-bottom: 100px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 15px;
+    box-shadow: 0 0 30px 5px gainsboro;
+}
+
+.number-section-item {
+    width: 33%;
+    text-align: center;
+    padding: 60px 0px;
+}
+
+.number-section-item h3 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 40px;
+}
+
+.number-section-item p {
+    margin: 0;
+    padding: 0;
 }
 
 /* Subscribe Section */
