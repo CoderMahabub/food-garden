@@ -169,6 +169,14 @@ p {
     text-align: center;
 }
 
+.client-say-bottom-item p {
+    padding: 0 10px;
+}
+
+.client-say-bottom-item span {
+    font-size: 25px;
+}
+
 /* Subscribe Section */
 
 .subscribe-us {
