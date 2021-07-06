@@ -116,7 +116,7 @@ p {
 .client-say {
     padding: 100px 0;
     text-align: center;
-    background-image: url(../images/fg-clients-say.jpg);
+    background-image: url(../images/fg-about-bg.png);
 }
 
 .client-say-bottom-item {
@@ -186,7 +186,7 @@ p {
     text-align: center;
 }
 
-.input-email {
+#input-email {
     text-align: center;
     padding: 20px 50px;
     border-radius: 50px;
