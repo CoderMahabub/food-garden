@@ -3,3 +3,53 @@ body {
     margin: 0;
     padding: 0;
 }
+
+/* Common CSS */
+
+h1 {
+    font-size: 60px;
+    font-weight: 700;
+    color: #575757;
+}
+
+span {
+    color: #FBA24F;
+}
+
+p {
+    color: gray;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 60px;
+}
+
+section {
+    margin-top: 50px;
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 5%;
+}
+
+.link-button {
+    color: #fff;
+    background: linear-gradient(to right, #FBA24F, #FE4C2F);
+    padding: 20px 50px;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+/* Top Banner */
+
+.top-banner {
+    margin-bottom: 50px;
+}
+
+.top-banner-item img {
+    width: 90%;
+}
