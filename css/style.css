@@ -141,6 +141,27 @@ p {
 
 /* Footer Section */
 
+.subscribe-us {
+    background-image: url(../images/fg-about-bg.png);
+    background-repeat: no-repeat;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.input-email {
+    text-align: center;
+    padding: 20px 50px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+
+.subscribe-us input {
+    border: 1px solid #FE4C2F;
+    font-size: 18px;
+}
+
+/* Footer Section */
+
 footer {
     background-color: #0B0D17;
     padding-top: 25px;
